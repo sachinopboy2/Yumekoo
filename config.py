@@ -1,9 +1,9 @@
 class config:
     
     #Client
-    API_ID = 0
-    API_HASH = "0"
-    BOT_TOKEN = "0:0-0"
+    API_ID = 23042400
+    API_HASH = "b4f094c26faffa1c9450e3f61266c91b"
+    BOT_TOKEN = "7281251319:AAEumnMgGmGc1U6ia3JnOF59cIR8tKOnFo4"
     BOT_NAME = "Your_Bot_Name"
     BOT_USERNAME = "Your_Bot_Username"
     BOT_ID = 0
@@ -13,8 +13,8 @@ class config:
     
      
     #Git
-    GIT_USERNAME = "Your_Git_Username"
-    GIT_URL_WITH_TOKEN = "https://Your_Git_Token@github.com/Your_Git_Username/Yumeko.git" 
+    GIT_USERNAME = "sachinopboy2"
+    GIT_URL_WITH_TOKEN = "https://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@github.com/sachinopboy2/Yumekoo.git" 
 
 
     #Info
